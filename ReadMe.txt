@@ -2,7 +2,7 @@ Steps to run the code:
 
 1) Open Finetuning_MLP.ipynb in Google Colab
 
-2) Upload the seven files from output-from-wmt_14_trained_model folder (files needs to uploaded individually and no need to upload the folder itself)
+2)output-from-wmt_14_trained_model folder contains the output embeddings from pretrained LSTM-autoencoder. Upload the seven files from output-from-wmt_14_trained_model folder to the google colab (files needs to uploaded individually and no need to upload the folder itself). Upload these files:
 	a1.npy
 	a2.npy
 	a3.npy
@@ -17,8 +17,10 @@ Steps to run the code:
 
 
 Optional: data preprocessing - 
-The trained model is very big to upload it on the github. 
-Takes 1 hour to run all the following commands. For ease, I already preprocessed the data and saved all the files in output-from-wmt_14_trained_model folder
+The trained model is very big to upload it on the github. the trained model can be accessed from
+https://studentuml-my.sharepoint.com/:f:/g/personal/namrata_shivagunde_student_uml_edu/En3As10JA9BCs505oc4bKiwBReoIAPnrdFqtAoDfdUxb0Q?e=vFAYSS 
+
+It takes around 1 hour to run all the following commands. For ease, I already preprocessed the data and saved all the files in output-from-wmt_14_trained_model folder
 and first part of the code is sufficient in itself but if it is needed the data can be processed using the following commands.
 
 Note: Each file has to be processed individually and as the output is generated in the output-demo folder.
