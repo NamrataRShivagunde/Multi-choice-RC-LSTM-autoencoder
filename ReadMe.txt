@@ -17,6 +17,7 @@ Steps to run the code:
 
 
 Optional: data preprocessing - 
+The trained model is very big to upload it on the github. 
 Takes 1 hour to run all the following commands. For ease, I already preprocessed the data and saved all the files in output-from-wmt_14_trained_model folder
 and first part of the code is sufficient in itself but if it is needed the data can be processed using the following commands.
 
