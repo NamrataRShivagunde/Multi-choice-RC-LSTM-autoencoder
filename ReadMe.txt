@@ -17,7 +17,7 @@ Steps to run the code:
 
 
 Optional: data preprocessing - 
-The trained model is very big to upload it on the github. the trained model can be accessed from
+The trained model is very big to upload it on the github. The entire code including the trained model can be accessed from
 https://studentuml-my.sharepoint.com/:f:/g/personal/namrata_shivagunde_student_uml_edu/En3As10JA9BCs505oc4bKiwBReoIAPnrdFqtAoDfdUxb0Q?e=vFAYSS 
 
 It takes around 1 hour to run all the following commands. For ease, I already preprocessed the data and saved all the files in output-from-wmt_14_trained_model folder
