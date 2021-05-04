@@ -1,0 +1,6 @@
+numpy==1.15.4
+tensorboard==1.8.0
+tensorflow==1.8.0
+nltk==3.5
+pandas==1.1.5
+xlrd==1.1.0
